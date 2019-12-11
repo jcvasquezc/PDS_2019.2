@@ -5,6 +5,7 @@ Ejercicios y Laboratorios del curso "Procesamiento digital de señales". Univers
 Ejecutalos online en [Binder](https://mybinder.org/)
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcvasquezc/PDS_2019.2/master)
+
 # Contenido
 
 0 Parte 1. Introducción a la programación en Python
